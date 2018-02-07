@@ -1,0 +1,4 @@
+build/
+dist/
+lexis.egg-info/
+*__pycache__*
